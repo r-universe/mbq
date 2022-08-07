@@ -4,6 +4,9 @@
     "oncran": true
   },
   {
+    "package": "vistla"
+  },
+  {
     "package": "Boruta",
     "oncran": true
   },

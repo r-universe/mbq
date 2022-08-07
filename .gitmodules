@@ -8,6 +8,11 @@
 	url = https://gitlab.com/mbq/praznik
 	shallow = true
 	registered = true
+[submodule "vistla"]
+	path = vistla
+	url = https://gitlab.com/mbq/vistla
+	shallow = true
+	registered = true
 [submodule "Boruta"]
 	path = Boruta
 	url = https://gitlab.com/mbq/Boruta
