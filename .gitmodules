@@ -7,4 +7,4 @@
 	url = https://gitlab.com/mbq/praznik
 [submodule "vistla"]
 	path = vistla
-	url = https://github.com/cran/vistla
+	url = https://gitlab.com/mbq/vistla
