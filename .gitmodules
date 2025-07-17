@@ -5,6 +5,9 @@
 [submodule "praznik"]
 	path = praznik
 	url = https://gitlab.com/mbq/praznik
+[submodule "toporanga"]
+	path = toporanga
+	url = https://gitlab.com/mbq/toporanga
 [submodule "vistla"]
 	path = vistla
 	url = https://gitlab.com/mbq/vistla
