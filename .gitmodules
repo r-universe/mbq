@@ -8,6 +8,12 @@
 [submodule "praznik"]
 	path = praznik
 	url = https://gitlab.com/mbq/praznik
+[submodule "rFerns"]
+	path = rFerns
+	url = https://gitlab.com/mbq/rferns
+[submodule "rethinker"]
+	path = rethinker
+	url = https://gitlab.com/mbq/rethinker
 [submodule "toporanga"]
 	path = toporanga
 	url = https://gitlab.com/mbq/toporanga
