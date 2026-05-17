@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Boruta"]
+	path = Boruta
+	url = https://gitlab.com/mbq/boruta
 [submodule "fru"]
 	path = fru
 	url = https://gitlab.com/mbq/fru
